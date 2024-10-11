@@ -107,7 +107,8 @@ main {
 
 .container {
     display: flex;
-    align-items: flex-start;
+    flex-direction:columnn;
+    align-items: center;
 }
 
 .avatar {
