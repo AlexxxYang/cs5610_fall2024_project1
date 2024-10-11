@@ -129,11 +129,12 @@ main {
     text-align:center;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 601px) {
     .container {
         flex-direction: row;
         align-items: flex-start;
     }
+    
     .intro {
         text-align: left;
     }
