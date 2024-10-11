@@ -113,7 +113,6 @@ main {
     display: flex;
     flex-direction:columnn;
     align-items: center;
-    width:500px;
 }
 
 .avatar {
